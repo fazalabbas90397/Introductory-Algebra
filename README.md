@@ -6,6 +6,6 @@ Go to <a href="https://github.com/fazalabbas90397/Introductory-Algebra/blob/main
 1. *Soha Ejaz* | Olevels Student in Pre-Medical
 2. *Ali Abbas Wazir* | AKUEB student in Pre-Engineering
 3. *Ayesha Mansoor* | BSc student in Physics
-4. *Your Name* | BSc student in Computer Science
+4. *Zain Abbas* | AKUEB Student
 5. *Your Name* | Graduated from Physics 
 6. *Your Name* | BSc student in Physics
