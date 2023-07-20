@@ -4,7 +4,7 @@ Go to <a href="https://github.com/fazalabbas90397/Introductory-Algebra/blob/main
 
 ### Members:
 1. *Soha Ejaz* | Olevels Student in Pre-Med
-2. *Your Name* | MSc student in Physics
+2. *Ali Abbas Wazir* | AKUEB student in Pre-Engineering
 3. *Your Name* | BSc student in Physics
 4. *Your Name* | BSc student in Computer Science
 5. *Your Name* | Graduated from Physics 
