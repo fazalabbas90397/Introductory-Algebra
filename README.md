@@ -6,4 +6,5 @@ Go to <a href="https://github.com/fazalabbas90397/Introductory-Algebra/blob/main
 1. *Soha Ejaz* | Olevels Student in Pre-Medical
 2. *Ali Abbas Wazir* | AKUEB student in Pre-Engineering
 3. *Ayesha Mansoor* | Olevels Student in Business Studies
-4. *Ibrahim Munqaz* | Class 9
+4. *Zain Abbas* | AKUEB student
+5. *Ibrahim Munqaz* | Class 9
