@@ -8,3 +8,4 @@ Go to <a href="https://github.com/fazalabbas90397/Introductory-Algebra/blob/main
 3. *Ayesha Mansoor* | Olevels Student in Business Studies
 4. *Zain Abbas* | AKUEB student
 5. *Ibrahim Munqaz* | Class 9
+6.  *Zohair Ali Vakil* | Student in Class 9
